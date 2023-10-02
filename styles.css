@@ -1,0 +1,59 @@
+/* Variables */
+/* General Features */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Outfit", sans-serif;
+}
+
+/* Desktop Design */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  margin: 0 auto;
+}
+
+.card {
+  width: 320px;
+  background-color: hsl(0, 0%, 100%);
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 15px;
+}
+.card .card-img img {
+  width: 100%;
+  border-radius: 15px;
+}
+.card .card-body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.card .card-body h1 {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+.card .card-body p {
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+}
+
+/* Mobile Design */
+@media screen and (max-width: 768px) {
+  .container {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
