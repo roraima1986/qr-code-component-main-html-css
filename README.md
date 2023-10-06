@@ -17,7 +17,7 @@
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@roraima1986](https://www.frontendmentor.io/profile/roraima1986)
+- Website - [https://roraima1986.github.io/qrcode.github.io](https://roraima1986.github.io/qrcode.github.io/)
+- Frontend Mentor - [@roraima1986](https://www.frontendmentor.io/profile/roraima1986/)
 
 
